@@ -1,3 +1,3 @@
-module github.com/go-chi/chi/v5
+module github.com/sanjsingh07/vfsgen/
 
 go 1.14
